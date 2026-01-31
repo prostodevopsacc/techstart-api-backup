@@ -8,4 +8,5 @@ def goodbye_world():
     return "Goodbye World!"
 
 
-# Security patch applied
+def get_hello_world():
+    return "Hello World!"
